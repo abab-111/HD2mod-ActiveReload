@@ -2,7 +2,7 @@
 
 **HELLDIVERS 2 的时机型主动换弹 mod / A timing-based active-reload mod for HELLDIVERS 2.**
 
-> 项目状态：**已搁置**，停在 `v0.3.15-dev` 完成态。功能完整可用，源码与自测齐全。
+> 项目状态：**已搁置**，停在 `v0.3.15-dev` 完成态。功能仅爆裂铳可用，源码与自测齐全。
 > Status: **shelved**, frozen at `v0.3.15-dev`. Feature-complete and fully self-tested.
 
 换弹过程中，屏幕上会出现一条进度条与游标；在游标进入命中区时按下 **R**，换弹立即完成、弹匣补满。按错时机则进度条转为灰红走完，本轮内再按无效。
